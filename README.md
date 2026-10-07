@@ -9,3 +9,5 @@ I expect to learn how real software is kept working and improved over time, and 
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software, and to get better at teamwork tools like Git, branches and pull requests.
 
 ![My Image](me.JPG)
+
+  
